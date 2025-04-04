@@ -47,7 +47,7 @@
 
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
-import { notification, data } from "@shopware-ag/meteor-admin-sdk";
+import { notification, data } from "@allinpay-ag/meteor-admin-sdk";
 import { SwButton, SwTextField } from '@allincart-ag/meteor-component-library';
 
 const product = ref<EntitySchema.Entity<'product'>|undefined|null>(undefined);

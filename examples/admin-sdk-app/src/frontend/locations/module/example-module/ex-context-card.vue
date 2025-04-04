@@ -33,7 +33,7 @@
 </template>
 
 <script setup lang="ts">
-import { context, notification } from '@shopware-ag/meteor-admin-sdk';
+import { context, notification } from '@allinpay-ag/meteor-admin-sdk';
 import { SwCard, SwButton } from '@allincart-ag/meteor-component-library';
 
 async function getCurrentLanguage() {

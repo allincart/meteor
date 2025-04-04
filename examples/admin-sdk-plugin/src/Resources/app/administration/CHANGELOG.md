@@ -8,7 +8,7 @@
 - Updated dependencies [9b0cc45]
 - Updated dependencies [adb59f8]
   - @allincart-ag/meteor-component-library@4.10.0
-  - @shopware-ag/meteor-admin-sdk@5.8.5
+  - @allinpay-ag/meteor-admin-sdk@5.8.5
 
 ## 1.0.16
 
@@ -16,7 +16,7 @@
 
 - Updated dependencies [466f306]
   - @allincart-ag/meteor-component-library@4.9.1
-  - @shopware-ag/meteor-admin-sdk@5.8.4
+  - @allinpay-ag/meteor-admin-sdk@5.8.4
 
 ## 1.0.15
 
@@ -31,7 +31,7 @@
 - Updated dependencies [32b1d35]
 - Updated dependencies [371c286]
   - @allincart-ag/meteor-component-library@4.9.0
-  - @shopware-ag/meteor-admin-sdk@5.8.3
+  - @allinpay-ag/meteor-admin-sdk@5.8.3
 
 ## 1.0.14
 
@@ -39,7 +39,7 @@
 
 - Updated dependencies [c6017dd]
   - @allincart-ag/meteor-component-library@4.8.0
-  - @shopware-ag/meteor-admin-sdk@5.8.2
+  - @allinpay-ag/meteor-admin-sdk@5.8.2
 
 ## 1.0.13
 
@@ -47,7 +47,7 @@
 
 - Updated dependencies [55b219b]
   - @allincart-ag/meteor-component-library@4.7.1
-  - @shopware-ag/meteor-admin-sdk@5.8.1
+  - @allinpay-ag/meteor-admin-sdk@5.8.1
 
 ## 1.0.12
 
@@ -56,7 +56,7 @@
 - Updated dependencies [8d89449]
 - Updated dependencies [8dac4d1]
   - @allincart-ag/meteor-component-library@4.7.0
-  - @shopware-ag/meteor-admin-sdk@5.8.0
+  - @allinpay-ag/meteor-admin-sdk@5.8.0
 
 ## 1.0.11
 
@@ -71,7 +71,7 @@
 - Updated dependencies [b3d2b03]
 - Updated dependencies [67c1cf8]
   - @allincart-ag/meteor-component-library@4.6.0
-  - @shopware-ag/meteor-admin-sdk@5.7.8
+  - @allinpay-ag/meteor-admin-sdk@5.7.8
 
 ## 1.0.10
 
@@ -80,7 +80,7 @@
 - Updated dependencies [13ce32a]
 - Updated dependencies [6372237]
 - Updated dependencies [55832a9]
-  - @shopware-ag/meteor-admin-sdk@5.7.7
+  - @allinpay-ag/meteor-admin-sdk@5.7.7
   - @allincart-ag/meteor-component-library@4.5.1
 
 ## 1.0.9
@@ -92,7 +92,7 @@
 - Updated dependencies [a57d22e]
 - Updated dependencies [d988d78]
   - @allincart-ag/meteor-component-library@4.5.0
-  - @shopware-ag/meteor-admin-sdk@5.7.6
+  - @allinpay-ag/meteor-admin-sdk@5.7.6
 
 ## 1.0.8
 
@@ -101,7 +101,7 @@
 - Updated dependencies [1b0b620]
 - Updated dependencies [6cc3876]
   - @allincart-ag/meteor-component-library@4.4.1
-  - @shopware-ag/meteor-admin-sdk@5.7.5
+  - @allinpay-ag/meteor-admin-sdk@5.7.5
 
 ## 1.0.7
 
@@ -109,7 +109,7 @@
 
 - Updated dependencies [c235676]
   - @allincart-ag/meteor-component-library@4.4.0
-  - @shopware-ag/meteor-admin-sdk@5.7.4
+  - @allinpay-ag/meteor-admin-sdk@5.7.4
 
 ## 1.0.6
 
@@ -118,7 +118,7 @@
 - Updated dependencies [f251c89]
 - Updated dependencies [489997c]
   - @allincart-ag/meteor-component-library@4.3.1
-  - @shopware-ag/meteor-admin-sdk@5.7.3
+  - @allinpay-ag/meteor-admin-sdk@5.7.3
 
 ## 1.0.5
 
@@ -133,7 +133,7 @@
 - Updated dependencies [4893678]
 - Updated dependencies [ef58de6]
   - @allincart-ag/meteor-component-library@4.3.0
-  - @shopware-ag/meteor-admin-sdk@5.7.2
+  - @allinpay-ag/meteor-admin-sdk@5.7.2
 
 ## 1.0.4
 
@@ -149,7 +149,7 @@
 - Updated dependencies [d8a289e]
 - Updated dependencies [43305d9]
   - @allincart-ag/meteor-component-library@4.2.0
-  - @shopware-ag/meteor-admin-sdk@5.7.1
+  - @allinpay-ag/meteor-admin-sdk@5.7.1
 
 ## 1.0.3
 
@@ -183,7 +183,7 @@
 - Updated dependencies [3863b64]
 - Updated dependencies [fab1a1d]
   - @allincart-ag/meteor-component-library@4.1.0
-  - @shopware-ag/meteor-admin-sdk@5.7.0
+  - @allinpay-ag/meteor-admin-sdk@5.7.0
 
 ## 1.0.2
 
@@ -191,7 +191,7 @@
 
 - Updated dependencies [f3b0e2f]
   - @allincart-ag/meteor-component-library@4.0.1
-  - @shopware-ag/meteor-admin-sdk@5.6.2
+  - @allinpay-ag/meteor-admin-sdk@5.6.2
 
 ## 1.0.1
 
@@ -229,4 +229,4 @@
 - Updated dependencies [50de30f]
 - Updated dependencies [b3039c1]
   - @allincart-ag/meteor-component-library@4.0.0
-  - @shopware-ag/meteor-admin-sdk@5.6.1
+  - @allinpay-ag/meteor-admin-sdk@5.6.1
