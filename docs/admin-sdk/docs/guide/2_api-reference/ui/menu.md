@@ -41,7 +41,7 @@ ui.menu.addMenuItem({
 #### Example
 ![Menu item example](./assets/add-menu-item-example.png)
 ```ts
-import { location, ui } from '@allinpay-ag/meteor-admin-sdk';
+import { location, ui } from '@allincart-ag/meteor-admin-sdk';
 
 // General commands
 if (location.is(sw.location.MAIN_HIDDEN)) {

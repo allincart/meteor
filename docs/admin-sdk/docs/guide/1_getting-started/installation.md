@@ -69,7 +69,7 @@ add it to your `index.html`:
 ```
 
 Then you initialize a new Node project with `npm init --yes` and install the SDK via NPM 
-with `npm i --save @allinpay-ag/meteor-admin-sdk`.
+with `npm i --save @allincart-ag/meteor-admin-sdk`.
 
 If you want to have a custom Vite configuration you can install Vite with `npm i --save vite` and
 create a `vite.config.js` file in the `meteor-app` folder with your custom configuration.
@@ -114,19 +114,19 @@ The CDN method is easy to use and fast to implement. It is best used for quick p
 ### Using NPM (require bundling):
 Install it to your `package.json`
 ```
-npm i --save @allinpay-ag/meteor-admin-sdk
+npm i --save @allincart-ag/meteor-admin-sdk
 ```
 
 and import it into your app or plugin:
 ```js
 // import everything as one big object
-import * as sw from '@allinpay-ag/meteor-admin-sdk';
+import * as sw from '@allincart-ag/meteor-admin-sdk';
 
 // or import only needed functionality scope
-import { notification }  from '@allinpay-ag/meteor-admin-sdk';
+import { notification }  from '@allincart-ag/meteor-admin-sdk';
 
 // or the direct method (here with an alias)
-import { dispatch as dispatchNotification } from '@allinpay-ag/meteor-admin-sdk/es/notification'
+import { dispatch as dispatchNotification } from '@allincart-ag/meteor-admin-sdk/es/notification'
 
 ```
 
@@ -135,10 +135,10 @@ Import the source from the CDN
 
 ```js
 // use the latest version available
-<script src="https://unpkg.com/@allinpay-ag/meteor-admin-sdk/cdn"></script>
+<script src="https://unpkg.com/@allincart-ag/meteor-admin-sdk/cdn"></script>
 
 // use a fix version (example here: 1.2.3)
-<script src="https://unpkg.com/@allinpay-ag/meteor-admin-sdk@1.2.3/cdn"></script>
+<script src="https://unpkg.com/@allincart-ag/meteor-admin-sdk@1.2.3/cdn"></script>
 ```
 
 and access it with the global variable `sw`.

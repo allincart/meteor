@@ -1,5 +1,5 @@
 import { defineComponent } from 'vue'
-import { location } from "@allinpay-ag/meteor-admin-sdk";
+import { location } from "@allincart-ag/meteor-admin-sdk";
 import { MtButton, MtNumberField } from '@allincart-ag/meteor-component-library';
 
 export default defineComponent({

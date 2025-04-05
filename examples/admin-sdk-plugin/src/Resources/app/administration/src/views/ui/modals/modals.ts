@@ -1,5 +1,5 @@
 import { defineComponent } from 'vue'
-import { ui } from '@allinpay-ag/meteor-admin-sdk';
+import { ui } from '@allincart-ag/meteor-admin-sdk';
 
 // make background color white
 document.body.style.backgroundColor = 'white';

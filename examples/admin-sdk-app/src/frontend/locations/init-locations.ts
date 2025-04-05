@@ -2,7 +2,7 @@ import { createApp, h, defineAsyncComponent } from "vue";
 import { createI18n } from "vue-i18n";
 import "@allincart-ag/meteor-component-library/styles.css";
 import "@allincart-ag/meteor-component-library/font.css";
-import { location } from "@allinpay-ag/meteor-admin-sdk";
+import { location } from "@allincart-ag/meteor-admin-sdk";
 
 // register all components for the location
 const locations = {

@@ -1,5 +1,5 @@
 import { defineComponent } from 'vue'
-import { data } from '@allinpay-ag/meteor-admin-sdk';
+import { data } from '@allincart-ag/meteor-admin-sdk';
 import { SwButton, SwTextField } from "@allincart-ag/meteor-component-library";
 
 

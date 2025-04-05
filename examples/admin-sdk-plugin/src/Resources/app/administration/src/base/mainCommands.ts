@@ -1,4 +1,4 @@
-import { notification, ui, context } from '@allinpay-ag/meteor-admin-sdk';
+import { notification, ui, context } from '@allincart-ag/meteor-admin-sdk';
 
 // location/index
 ui.componentSection.add({

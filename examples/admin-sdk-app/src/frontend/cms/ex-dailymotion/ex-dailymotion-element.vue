@@ -20,7 +20,7 @@
 
 <script setup lang="ts">
 import { ref, computed, onBeforeMount } from 'vue';
-import { data } from '@allinpay-ag/meteor-admin-sdk';
+import { data } from '@allincart-ag/meteor-admin-sdk';
 import EX_DAILYMOTION_CONSTANTS from './ex-dailymotion-constants';
 
 const dataSelectors = [

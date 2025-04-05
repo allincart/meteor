@@ -1,4 +1,4 @@
-import { location } from '@allinpay-ag/meteor-admin-sdk';
+import { location } from '@allincart-ag/meteor-admin-sdk';
 
 if (location.is(location.MAIN_HIDDEN)) {
     /**

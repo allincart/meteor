@@ -61,7 +61,7 @@ async function createServer() {
         plugins: [vue()],
         optimizeDeps: {
             include: [
-                '@allinpay-ag/meteor-admin-sdk',
+                '@allincart-ag/meteor-admin-sdk',
                 '@allincart-ag/meteor-component-library'
             ]
         },

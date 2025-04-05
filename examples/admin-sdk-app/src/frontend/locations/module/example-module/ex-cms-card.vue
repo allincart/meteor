@@ -11,7 +11,7 @@
 </template>
 
 <script setup lang="ts">
-import { window } from '@allinpay-ag/meteor-admin-sdk';
+import { window } from '@allincart-ag/meteor-admin-sdk';
 import { SwCard } from '@allincart-ag/meteor-component-library';
 
 function goToCmsModule() {

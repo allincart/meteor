@@ -1,5 +1,5 @@
 import "regenerator-runtime/runtime";
-import { location } from '@allinpay-ag/meteor-admin-sdk';
+import { location } from '@allincart-ag/meteor-admin-sdk';
 
 // Only execute extensionSDK commands when
 // it is inside a iFrame (only needed for plugins)

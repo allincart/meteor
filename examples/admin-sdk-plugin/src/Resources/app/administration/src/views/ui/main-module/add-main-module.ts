@@ -1,5 +1,5 @@
 import { defineComponent } from 'vue';
-import { notification, context, data, window } from '@allinpay-ag/meteor-admin-sdk';
+import { notification, context, data, window } from '@allincart-ag/meteor-admin-sdk';
 import { SwButton, SwTextField, SwTextarea } from '@allincart-ag/meteor-component-library';
 
 const { repository, Classes: { Criteria } } = data;

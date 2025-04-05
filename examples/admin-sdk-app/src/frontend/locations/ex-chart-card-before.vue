@@ -22,7 +22,7 @@
 </template>
 
 <script setup lang="ts">
-import { window, context } from "@allinpay-ag/meteor-admin-sdk";
+import { window, context } from "@allincart-ag/meteor-admin-sdk";
 import { SwButton } from '@allincart-ag/meteor-component-library';
 
 async function goToExampleModule() {
