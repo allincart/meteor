@@ -172,7 +172,7 @@ Promise<{
 
 #### Usage:  
 ```ts
-const shopwareVersion = await sw.context.getShopwareVersion();
+const shopwareVersion = await sw.context.getAllinCartVersion();
 ```
 
 #### Parameters

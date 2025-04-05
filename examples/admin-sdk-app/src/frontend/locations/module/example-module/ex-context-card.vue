@@ -87,7 +87,7 @@ async function getCurrentCurrency() {
 }
 
 async function getCurrentShopwareVersion() {
-  const currentShopwareVersion = await context.getShopwareVersion();
+  const currentShopwareVersion = await context.getAllinCartVersion();
 
   notification.dispatch({
     title: 'Current Shopware version',
